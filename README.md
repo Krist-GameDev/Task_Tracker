@@ -1,2 +1,2 @@
-# Uzi
-tgbot
+# Task Tracker
+Beginner project
